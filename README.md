@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 * 🌍  I'm based in Florida
-* ✉️  You can contact me at [zubairahmed.282002@gmail.com](mailto:za2452637@gmail.com)
+* ✉️  You can contact me at [za2452637@gmail.com](mailto:za2452637@gmail.com)
 * 🧠  I'm learning ML
 
 <a href="https://www.github.com/Mcqn1" target="_blank" rel="noreferrer"><img
