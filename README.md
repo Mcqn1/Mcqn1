@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zubair Ahmed
 ====================================================================================================================================
 
-* 🌍  I'm based in Hyderabad
-* ✉️  You can contact me at [zubairahmed.282002@gmail.com](mailto:zubairahmed.282002@gmail.com)
-* 🧠  I'm learning Asp.NET
+* 🌍  I'm based in Florida
+* ✉️  You can contact me at [zubairahmed.282002@gmail.com](mailto:za2452637@gmail.com)
+* 🧠  I'm learning ML
 
 <a href="https://www.github.com/Mcqn1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mcqn1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
