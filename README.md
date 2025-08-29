@@ -1,35 +1,72 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zubair Ahmed
-====================================================================================================================================
+  <h1 align="center">Hi 👋, I'm Zubair Ahmed</h1>
 
-* 🌍  I'm based in Florida
-* ✉️  You can contact me at [za2452637@gmail.com](mailto:za2452637@gmail.com)
-* 🧠  I'm learning ML
-
-<a href="https://www.github.com/Mcqn1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Mcqn1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="center">
+  <a href="https://github.com/Mcqn1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=ML+%26+AI+Practitioner;Computer+Vision+Enthusiast;Always+Learning+New+Tech;Turning+Ideas+Into+Projects+🚀" alt="Typing SVG" />
+  </a>
 </p>
 
+<h3 align="center">🌍 Florida | 📫 za2452637@gmail.com</h3>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Mcqn1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/zubair-ahmed-642807246/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### 🚀 About Me
+- 🌱 Currently diving deep into **Machine Learning & AI**
+- 🧠 Exploring projects in **Computer Vision & Deep Learning**
+- 🤝 Open to collaborating on **AI-driven applications**
+- ⚡ Fun fact: I love turning ideas into working projects 🚀  
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🛠️ Skills & Tools
 
-<a href="http://www.github.com/Mcqn1"><img src="https://github-readme-stats.vercel.app/api?username=Mcqn1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mcqn1's GitHub stats" /></a>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" height="45" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="45" height="45" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="45" height="45" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" height="45" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="45" height="45" /></a>
+</p>
 
-<a href="http://www.github.com/Mcqn1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mcqn1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/Mcqn1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcqn1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🌐 Connect With Me
 
-<b>Top Repositories</b>
+<p align="center">
+  <a href="https://github.com/Mcqn1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zubair-ahmed-642807246/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/Mcqn1/BrainTumor" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcqn1&repo=BrainTumor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mcqn1/iAttendance" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcqn1&repo=iAttendance&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mcqn1&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mcqn1&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcqn1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Mcqn1/BrainTumor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mcqn1&repo=BrainTumor&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Mcqn1/iAttendance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mcqn1&repo=iAttendance&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+⭐️ From [Zubair Ahmed](https://github.com/Mcqn1)
